@@ -1,0 +1,15 @@
+{
+  "name": "c2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "diasisac <isac@mobilesaude.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6"
+  }
+}
